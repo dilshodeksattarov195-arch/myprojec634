@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpender",
+        "uuid": 5436550,
+        "checksum": "pnb0ko"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
